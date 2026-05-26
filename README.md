@@ -1,6 +1,27 @@
-# 💫 About Me:
-- 🔭 Currently building RAG-based chatbots using LangChain & FAISS, and AI-powered fintech apps with the MERN stack<br>- 🌱 Currently learning Generative AI, LLM fine-tuning, and agentic AI frameworks<br>- 👯 Looking to collaborate on AI/ML, full-stack, and Spring Boot microservices projects<br>- 🤔 Open source contributor focused on AI/ML tooling and intelligent application development<br>- 💬 Ask me about Machine Learning · Deep Learning · NLP · LLM APIs · MERN · Spring Boot · REST APIs · Python · Java<br>- 📫 Reach me at riyajanday19@gmail.com<br>- ⚡ Fun fact I've been certified by ISRO, IIT Kharagpur, and Columbia University — all while still in my second year!
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b3/8f/d5/b38fd5816fb939e63c53d6d0f0f42fb9.gif" alt="animation">
+</p>
 
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" align="left" valign="top">
+
+# 💫 About Me:
+- 🔭 Currently building RAG-based chatbots using LangChain & FAISS, and AI-powered fintech apps with the MERN stack  
+- 🌱 Currently learning Generative AI, LLM fine-tuning, and agentic AI frameworks  
+- 👯 Looking to collaborate on AI/ML, full-stack, and Spring Boot microservices projects  
+- 🤔 Open source contributor focused on AI/ML tooling and intelligent application development  
+- 💬 Ask me about Machine Learning · Deep Learning · NLP · LLM APIs · MERN · Spring Boot · REST APIs · Python · Java  
+- 📫 Reach me at riyajanday19@gmail.com  
+- ⚡ Fun fact: I've been certified by ISRO, IIT Kharagpur, and Columbia University — all while still in my second year!
+
+   </td>
+
+   <td width="30%" align="center">
+      <img src="https://i.pinimg.com/736x/51/73/18/51731820465ef8c15236dcee248630e1.jpg" width="250"/>
+   </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riyajanday/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyajanday19@gmail.com) 
